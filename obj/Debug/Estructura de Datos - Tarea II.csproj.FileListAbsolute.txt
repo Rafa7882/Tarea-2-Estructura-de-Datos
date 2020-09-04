@@ -1,0 +1,7 @@
+C:\Users\usuario\source\repos\Estructura de Datos - Tarea II\Estructura de Datos - Tarea II\bin\Debug\Estructura de Datos - Tarea II.exe.config
+C:\Users\usuario\source\repos\Estructura de Datos - Tarea II\Estructura de Datos - Tarea II\bin\Debug\Estructura de Datos - Tarea II.exe
+C:\Users\usuario\source\repos\Estructura de Datos - Tarea II\Estructura de Datos - Tarea II\bin\Debug\Estructura de Datos - Tarea II.pdb
+C:\Users\usuario\source\repos\Estructura de Datos - Tarea II\Estructura de Datos - Tarea II\obj\Debug\Estructura de Datos - Tarea II.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\Estructura de Datos - Tarea II\Estructura de Datos - Tarea II\obj\Debug\Estructura de Datos - Tarea II.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Estructura de Datos - Tarea II\Estructura de Datos - Tarea II\obj\Debug\Estructura de Datos - Tarea II.exe
+C:\Users\usuario\source\repos\Estructura de Datos - Tarea II\Estructura de Datos - Tarea II\obj\Debug\Estructura de Datos - Tarea II.pdb
